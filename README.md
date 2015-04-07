@@ -8,7 +8,9 @@
 * Node.js
 * Internet Expolrer 11 (or higher version) [Already installed on Win8/2012 by default]
 * .NET Framework 4.5 [Already installed on Win8/2012 by default]
+
 #Installation
+
 ##Server Setup
 * Initialize game account info 
 	- Launch ```KanColleViewer/KanColleViewer.exe``` and log in the game with your Google account. 
