@@ -14,10 +14,9 @@
 	- Launch ```KanColleViewer/KanColleViewer.exe``` and log in the game with your Google account. 
 	- Now the logging info is cached in IE Cookies so that the controller can automatically log in the game with your account. (Currently only logging with Google accounts is supported)
 
-* Capture the sample image of "Log in with Google account" button
-
 >  The auto game-logging-in function depends on the recognition of the "Log in with Google account" button. However due to the difference of resolution, OS or IE version, the actual appearance of the button rendered on your environment may differ from mine. Thus you may need to capture your own sample image of the "Log in with Google account" button to enhance recognition accuracy. 
 
+* Capture the sample image of "Log in with Google account" button
 	- Launch ```大漠综合工具.exe```
 	- Click ```抓图(CTRL+1)``` to capture the button as ```.bmp``` image
 	- Replace ```web_login_google.bmp``` with the image file you just captured.
