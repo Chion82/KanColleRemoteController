@@ -38,7 +38,7 @@
 	- Run ```node ./bin/www```
  
 ##Client Usage
-* On your laptop/smart phone, browse http://server_ip:3000 and log in to dashboard.
+* On your laptop/smart phone, browse http://server_ip:3000 and login to dashboard.
 * Enjoy!
 
 > Note: 
