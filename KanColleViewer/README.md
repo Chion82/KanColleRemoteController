@@ -1,0 +1,2 @@
+#Note
+This version of KanColleViewer is modified by @Chion82 . Real-time game data captured by KCV will be exported into JSON files which can be used as API sources. For the original version, refer to [@Grabacr07 's repo](https://github.com/Grabacr07/KanColleViewer)
