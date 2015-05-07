@@ -24,7 +24,7 @@
 	- Replace ```web_login_google.bmp``` with the image file you just captured.
 
 > The image you captured may look like this:
-> ![](http://git.oschina.net/chion82/KanColle-Remote-Controller/raw/master/web_login_google.bmp)
+> ![](https://github.com/Chion82/KanColleRemoteController/raw/master/web_login_google.bmp)
 
 * Change the dashboard admin password
 	- Open ```WebServer/auth/auth.js``` with Nodepad (Sublime Text is better if possible)
