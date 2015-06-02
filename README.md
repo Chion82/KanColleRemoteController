@@ -24,7 +24,7 @@
 	- Replace ```web_login_google.bmp``` with the image file you just captured.
 
 > The image you captured may look like this:
-> ![](../raw/d6facf3998a4f65e45112a7929a7f40678dc5f60/web_login_google.bmp)
+> ![](web_login_google.bmp)
 
 * Change the dashboard admin password
 	- Open ```WebServer/auth/auth.js``` with Nodepad (Sublime Text is better if possible)
@@ -43,7 +43,7 @@
 
 > Note: 
 >* You should run the game by clicking "Restart Game" in the dashboard at least 1 time or you get "Loading" in the Game Status panel all the time.
->* After clicking "Restart Game" button in the dashboard, your server need 3~5 minutes to start the game and the auto game script (KanCollePlayerSimulator). Meanwhile do not perform any mouse/keyboard actions on the server.
+>* After clicking "Restart Game" button in the dashboard, your server needs 3~5 minutes to start the game and the auto game script (KanCollePlayerSimulator). Meanwhile do not perform any mouse/keyboard actions on the server.
 
 #Reference Projects
 * [KanColleViewer](https://github.com/Grabacr07/KanColleViewer)
